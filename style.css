@@ -12,3 +12,8 @@ h2,
 h4 {
     text-align: right;
 }
+
+body {
+    color: white;
+    background-color: cadetblue;
+}
